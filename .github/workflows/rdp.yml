@@ -1,4 +1,4 @@
-Name: Windows RDP via Ngrok
+name: Windows RDP via Ngrok
 
 on: [push]
 
